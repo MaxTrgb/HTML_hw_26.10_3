@@ -1,0 +1,54 @@
+header {
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 900;
+}
+
+h1 {
+    font-size: x-large;
+    text-align: center;
+    font-weight: 600;
+}
+
+.sectionOne p {
+    display: inline;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.tags {
+    background-color: bisque;
+    color: red;
+
+}
+
+.italic {
+    font-style: italic;
+}
+
+.example {
+    background-color: silver;
+}
+
+.red {
+    color: red;
+}
+
+.sectionFive p {
+    display: inline;
+}
+
+.lastLine span {
+    background-color: silver;
+    color: aqua;
+}
+body {
+    background-color: rgb(253, 249, 243);
+    
+}
+main {
+    max-width: 800px; 
+    margin: auto;
+}
